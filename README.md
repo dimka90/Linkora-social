@@ -14,8 +14,6 @@ Linkora-socials is in the foundation stage.
 - Core social and token interaction primitives are implemented and covered by unit tests.
 - Frontend, indexing, and backend services are not yet included in this repository.
 
-If you are submitting this project to a Stellar open source contribution platform, this repository should be presented as a protocol prototype rather than a complete end-user application.
-
 ## What Linkora-socials Implements Today
 
 The main contract in `packages/contracts/contracts/linkora-contracts` currently supports:
